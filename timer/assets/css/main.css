@@ -1,0 +1,29 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.timer {
+    padding: 15px;
+    background: #171717;
+    color: silver;
+    border-radius: 10px 10px 0px 0px;
+    width: 150px;
+    text-align: center;
+}
+
+.buttons {
+    text-align: center;
+    width: 150px;
+    padding: 15px;
+    background: rgba(0, 0, 0, 0.25);
+    border-radius: 0px 0px 10px 10px;
+}
