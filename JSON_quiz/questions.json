@@ -2,7 +2,7 @@
 	"questions": [
 		{
 			"id": "0",
-			"title": "Is Ray the best boyfriend?",
+			"title": "Is Ray the coolest?",
 			"answers": [
 				{
 					"id": "0",
@@ -40,15 +40,15 @@
 			"answers": [
 				{
 					"id": "0",
-					"answer": "Tara is Super Goofy"
+					"answer": "Fred is Super Goofy"
 				},
 				{
 					"id": "1",
-					"answer": "Tara is the Best"
+					"answer": "Fred is the Best"
 				},
 				{
 					"id": "2",
-					"answer": "Tara is so amazing"
+					"answer": "Fred is so amazing"
 				}
 			],
 			"correct": "1"
